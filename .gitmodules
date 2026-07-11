@@ -10,3 +10,9 @@
 [submodule "data/journal"]
 	path = data/journal
 	url = https://github.com/quanttide/quanttide-journal-of-authorization.git
+[submodule "docs/handbook"]
+	path = docs/handbook
+	url = https://github.com/quanttide/quanttide-handbook-of-authorization.git
+[submodule "docs/tutorial"]
+	path = docs/tutorial
+	url = https://github.com/quanttide/quanttide-tutorial-of-authorization.git
