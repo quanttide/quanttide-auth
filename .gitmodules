@@ -1,3 +1,12 @@
 [submodule "apps/qtcloud-auth"]
 	path = apps/qtcloud-auth
 	url = https://github.com/quanttide/qtcloud-auth.git
+[submodule "data/library"]
+	path = data/library
+	url = https://github.com/quanttide/quanttide-library-of-authorization.git
+[submodule "data/context"]
+	path = data/context
+	url = https://github.com/quanttide/quanttide-context-of-authorization.git
+[submodule "data/journal"]
+	path = data/journal
+	url = https://github.com/quanttide/quanttide-journal-of-authorization.git
