@@ -19,3 +19,6 @@
 [submodule "docs/specification"]
 	path = docs/specification
 	url = https://github.com/quanttide/quanttide-specification-of-authorization.git
+[submodule "data/report"]
+	path = data/report
+	url = https://github.com/quanttide/quanttide-report-of-authorization.git
