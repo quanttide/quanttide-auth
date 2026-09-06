@@ -58,3 +58,6 @@
 [submodule "docs/gallery"]
 	path = docs/gallery
 	url = https://github.com/quanttide/quanttide-gallery-of-authorization-engineering.git
+[submodule "apps/qtaccount"]
+	path = apps/qtaccount
+	url = https://github.com/quanttide/qtaccount.git

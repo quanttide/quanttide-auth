@@ -4,6 +4,7 @@
 
 ### Added
 
+- 注册子模块：`apps/qtaccount`（量潮账号中心前台，qtaccount）
 - 注册子模块：`packages/quanttide-auth-toolkit`（身份认证工具箱，quanttide-auth-toolkit）
 - 注册子模块：`examples/default`（身份认证实验室，quanttide-laboratory-of-authorization-engineering）
 - 注册子模块：`data/profile`（身份认证档案，quanttide-profile-of-authorization-engineering）
