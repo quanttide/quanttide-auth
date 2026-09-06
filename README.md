@@ -16,9 +16,26 @@
 
 | 路径 | 说明 |
 |------|------|
-| `docs/` | 领域文档 |
-| `examples/default` | 实验性原型 |
-| `packages/toolkit` | 共享库/工具集 |
+| `apps/qtcloud-auth` | 量潮身份云 (git submodule → qtcloud-auth) |
+| `packages/quanttide-auth-toolkit` | 身份认证工具箱 (git submodule → quanttide-auth-toolkit) |
+| `examples/default` | 身份认证实验室 (git submodule → quanttide-laboratory-of-authorization-engineering) |
+| `data/context` | 身份认证语境 (git submodule → quanttide-context-of-authorization-engineering) |
+| `data/journal` | 身份认证日志 (git submodule → quanttide-journal-of-authorization-engineering) |
+| `data/profile` | 身份认证档案 (git submodule → quanttide-profile-of-authorization-engineering) |
+| `data/intention` | 身份认证意图 (git submodule → quanttide-intention-of-authorization-engineering) |
+| `data/roadmap` | 身份认证路线图 (git submodule → quanttide-roadmap-of-authorization-engineering) |
+| `data/insight` | 身份认证洞察 (git submodule → quanttide-insight-of-authorization-engineering) |
+| `data/brochure` | 身份认证宣传册 (git submodule → quanttide-brochure-of-authorization-engineering) |
+| `data/report` | 身份认证报告 (git submodule → quanttide-report-of-authorization-engineering) |
+| `data/library` | 身份认证参考 (git submodule → quanttide-library-of-authorization-engineering) |
+| `data/history` | 身份认证历史 (git submodule → quanttide-history-of-authorization-engineering) |
+| `data/archive` | 身份认证归档 (git submodule → quanttide-archive-of-authorization-engineering) |
+| `docs/bylaw` | 身份认证章程 (git submodule → quanttide-bylaw-of-authorization-engineering) |
+| `docs/handbook` | 身份认证手册 (git submodule → quanttide-handbook-of-authorization-engineering) |
+| `docs/specification` | 身份认证标准 (git submodule → quanttide-specification-of-authorization-engineering) |
+| `docs/tutorial` | 身份认证教程 (git submodule → quanttide-tutorial-of-authorization-engineering) |
+| `docs/essay` | 身份认证札记 (git submodule → quanttide-essay-of-authorization-engineering) |
+| `docs/gallery` | 身份认证案例集 (git submodule → quanttide-gallery-of-authorization-engineering) |
 
 ## 许可
 
