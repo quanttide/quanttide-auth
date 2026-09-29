@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+### 变更
+
+- 实验室子模块改名：`examples/default` → `examples/quanttide-auth-lab`（仓 quanttide-laboratory-of-authorization-engineering → quanttide-auth-lab）
+
+
 ### Added
 
 - 注册子模块：`apps/qtaccount`（量潮账号中心前台，qtaccount）

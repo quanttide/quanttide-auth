@@ -25,9 +25,9 @@
 [submodule "packages/quanttide-auth-toolkit"]
 	path = packages/quanttide-auth-toolkit
 	url = https://github.com/quanttide/quanttide-auth-toolkit.git
-[submodule "examples/default"]
-	path = examples/default
-	url = https://github.com/quanttide/quanttide-laboratory-of-authorization-engineering.git
+[submodule "examples/quanttide-auth-lab"]
+	path = examples/quanttide-auth-lab
+	url = https://github.com/quanttide/quanttide-auth-lab.git
 [submodule "data/profile"]
 	path = data/profile
 	url = https://github.com/quanttide/quanttide-profile-of-authorization-engineering.git

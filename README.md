@@ -19,7 +19,7 @@
 | `apps/qtcloud-auth` | 量潮身份云 (git submodule → qtcloud-auth) |
 | `apps/qtaccount` | 量潮账号中心（前台：账号/钱包管理，复用 qtcloud-auth/qtcloud-pay）(git submodule → qtaccount) |
 | `packages/quanttide-auth-toolkit` | 身份认证工具箱 (git submodule → quanttide-auth-toolkit) |
-| `examples/default` | 身份认证实验室 (git submodule → quanttide-laboratory-of-authorization-engineering) |
+| `examples/quanttide-auth-lab` | 身份认证实验室 (git submodule → quanttide-auth-lab) |
 | `data/context` | 身份认证语境 (git submodule → quanttide-context-of-authorization-engineering) |
 | `data/journal` | 身份认证日志 (git submodule → quanttide-journal-of-authorization-engineering) |
 | `data/profile` | 身份认证档案 (git submodule → quanttide-profile-of-authorization-engineering) |
