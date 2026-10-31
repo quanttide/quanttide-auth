@@ -4,6 +4,7 @@
 
 ### 变更
 
+- 移除子模块 `apps/qtaccount`（量潮账号中心）：已拆分迁移（账号侧 → qtcloud-auth/src/lite，钱包侧 → qtcloud-pay/src/lite），仓库保留待重新规划
 - 实验室子模块改名：`examples/default` → `examples/quanttide-auth-lab`（仓 quanttide-laboratory-of-authorization-engineering → quanttide-auth-lab）
 
 

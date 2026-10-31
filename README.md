@@ -17,7 +17,8 @@
 | 路径 | 说明 |
 |------|------|
 | `apps/qtcloud-auth` | 量潮身份云 (git submodule → qtcloud-auth) |
-| `apps/qtaccount` | 量潮账号中心（前台：账号/钱包管理，复用 qtcloud-auth/qtcloud-pay）(git submodule → qtaccount) |
+| `apps/qtcloud-auth/src/lite` | 量潮账号中心 lite（用户端自服务客户端） |
+| `apps/qtcloud-auth/src/studio` | 量潮身份云管理后台（企业管理账号信息） |
 | `packages/quanttide-auth-toolkit` | 身份认证标准库 (git submodule → quanttide-auth-toolkit) |
 | `examples/quanttide-auth-lab` | 身份认证实验室 (git submodule → quanttide-auth-lab) |
 | `data/context` | 身份认证语境 (git submodule → quanttide-context-of-authorization-engineering) |
@@ -37,6 +38,8 @@
 | `docs/tutorial` | 身份认证教程 (git submodule → quanttide-tutorial-of-authorization-engineering) |
 | `docs/essay` | 身份认证札记 (git submodule → quanttide-essay-of-authorization-engineering) |
 | `docs/gallery` | 身份认证案例集 (git submodule → quanttide-gallery-of-authorization-engineering) |
+
+> 原子模块 `apps/qtaccount`（量潮账号中心）已拆分迁移并移除子模块引用，仓库保留待重新规划：账号侧 → `qtcloud-auth/src/lite`，钱包侧 → `qtcloud-pay/src/lite`。
 
 ## 许可
 
